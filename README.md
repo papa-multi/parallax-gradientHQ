@@ -25,11 +25,9 @@ first you need gpu you can get [vast.ai](https://cloud.vast.ai/?ref_id=345155)
 ssh-keygen -t rsa 
 ```
 
-3 - press enter to save the file 
 
-4 - copy your public key ( SSH )
+3 - copy your public key ( SSH )
 
-Replace Your Address
 ```bash
 Get-Content "$env:USERPROFILE\.ssh\id_rsa.pub" | Set-Clipboard
 ```
@@ -38,7 +36,6 @@ Get-Content "$env:USERPROFILE\.ssh\id_rsa.pub" | Set-Clipboard
 
 6 - get your private key on your windows powershell 
 
-Replace Your Address
 ```bash
 Get-Content "$env:USERPROFILE\.ssh\id_rsa" | Set-Clipboard
 ```
