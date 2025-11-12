@@ -3,7 +3,7 @@
 
 
 
-first you need gpu you can get [vast.ai] (https://cloud.vast.ai/?ref_id=345155)
+first you need gpu you can get [vast.ai](https://cloud.vast.ai/?ref_id=345155)
 
 ===========================================================================
 
