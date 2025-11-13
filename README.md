@@ -119,7 +119,7 @@ after see this open powershell on windows and use this command:
 `use your ip and port `
 
 ```
- ssh -i "$env:USERPROFILE\.ssh\id_rsa.pub" -N -L 3000:localhost:3000 -p <port> root@<ipserver>
+ ssh -i "$env:USERPROFILE\.ssh\id_rsa" -N -L 3001:localhost:3001 -p <port> root@<ip-server>
 ```
 
 creat seconde screen :
